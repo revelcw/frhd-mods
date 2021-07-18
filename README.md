@@ -35,12 +35,6 @@ This mod shows you when a user has last played, on their profile page, even if y
 
 ![image](https://user-images.githubusercontent.com/29359616/126065458-ac7e9b40-a580-4095-a5de-bbaae0b9492c.png)
 
-![TinyGHInstall](https://user-images.githubusercontent.com/29359616/126066129-86a25c11-9970-4abf-875b-e61663b1e411.png)
-
-
-
-
-
 <details>
   <summary>Changelog</summary>
 
