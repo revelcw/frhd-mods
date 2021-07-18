@@ -65,6 +65,7 @@
           text.style = 'padding: 2px 3px 3px 0px;font-size: 12.5px;';
           text.textContent = 'Last Played ' + lastPlayed;
           parent.insertBefore(text, ref);
+          console.log('Last Played: ' + lastPlayed);
         }
       }
     });
