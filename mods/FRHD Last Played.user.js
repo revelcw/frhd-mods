@@ -37,7 +37,7 @@
         (friend) => friend.u_name.toLowerCase() === user.toLowerCase()
       ).activity_time_ago;
     } else {
-      throw new Error('User not defined / User has no friends');
+      return "Unknown"
     }
   };
 
